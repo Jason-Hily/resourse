@@ -1,0 +1,9 @@
+brew install powerline-fonts
+
+git clone. https://gitee.com/Jasonhill/fonts.git
+
+cd font
+./install.sh
+
+ZSH_THEME="candy-kingdom"
+ZSH_DISABLE_COMPFIX="true"
